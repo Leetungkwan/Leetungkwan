@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="108" src=./README.assets/logo_20221212_uugai.com-1670815490572.png />
+  <img width="200" src=./README.assets/logo_20221212_uugai.com-1670815490572.png />
 
 ## Contact with me
 
