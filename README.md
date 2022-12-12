@@ -5,8 +5,7 @@
 
 ## Contact with me
 
-![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)  [Twitter]((https://twitter.com/begetbegot))
-
+<a href="https://twitter.com/begetbegot" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
 
 
