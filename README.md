@@ -5,7 +5,7 @@
 
 ## Contact with me
 
-<a href="https://twitter.com/begetbegot" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://twitter.com/begetbegot" target="blank">Twitter: <img align="center" src="E:\markdown_project\overview\README.assets\twitter-3.svg" alt="Medium" height="30" width="40" /></a>
 
 
 
