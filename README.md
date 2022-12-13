@@ -5,7 +5,7 @@
 
 ## Contact with me
 
-<a href="https://twitter.com/begetbegot" target="blank">Twitter: <img align="center" src="README.assets\twitter-3.svg" alt="Medium" height="30" width="40" /></a>        <a href="mailto:ltokwan1024@gmail.com">Gmail: <img align="center" src="README.assets\official-gmail-icon-2020-.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://twitter.com/begetbegot" target="blank">Twitter: <img align="center" src="README.assets\twitter-3.svg" alt="Medium" height="30" width="40" /></a>        <a href="mailto:ltokwan1024@gmail.com">Gmail: <img align="center" src="README.assets\official-gmail-icon-2020-.svg" alt="Medium" height="30" width="40" /></a>          <a href="https://www.linkedin.cn/incareer/in/ACoAAD8ks8EB66KUTpXxM_set_HUV2oBMeSze_o" target="blank">Linkedin: <img align="center" src="README.assets\linkedin-icon-2.svg" alt="Medium" height="30" width="40" /></a>
 
 
 
