@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img width="200" src=./README.assets/logo_20221212_uugai.com-1670815490572.png />
+  <img width="200" src=./README.assets/leetungkwan.svg />
+
 
 ## **Contact with me**
 
@@ -17,4 +18,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leetungkwan&theme=neon-palenight&hide_border=true)
 
 ## **Language and Tools**
-<img src="README.assets\python-5.svg" alt="Python" width="40" height="40"/> <img src="README.assets\linux-tux.svg" alt="Linux" width="40" height="40"/> <img src="README.assets\git-icon.svg" alt="Git" width="40" height="40"/> <img src="README.assets\mysql-6.svg" alt="MySQL" width="40" height="40"/> <img src="README.assets\jupyter-seeklogo.com.svg" alt="Jupyter" width="40" height="40"/> <img src="README.assets\vim.svg" alt="Vim" width="40" height="40"/>
+<img src="README.assets\python-5.svg" alt="Python" width="40" height="40"/> <img src="README.assets\linux-tux.svg" alt="Linux" width="40" height="40"/> <img src="README.assets\git-icon.svg" alt="Git" width="40" height="40"/> <img src="README.assets\mysql-6.svg" alt="MySQL" width="40" height="40"/> <img src="README.assets\jupyter-seeklogo.com.svg" alt="Jupyter" width="40" height="40"/> <img src="README.assets\vim.svg" alt="Vim" width="40" height="40"/>  
